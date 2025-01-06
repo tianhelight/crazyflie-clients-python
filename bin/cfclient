@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#测试更改，无视
 from cfclient.gui import main
 
 if __name__ == "__main__":
